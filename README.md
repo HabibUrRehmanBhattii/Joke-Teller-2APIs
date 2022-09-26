@@ -12,7 +12,7 @@ The user can click the button to hear a joke. The joke is fetched from an API an
 
 ## Installation
 <hr>
-Clone the repo and open the index.html file in your browser. You can also visit the live site [here]().
+Clone the repo and open the index.html file in your browser. You can also visit the live site [here](https://habiburrehmanbhattii.github.io/Joke-Teller-2APIs/).
 
 ## API Reference
 <hr>
