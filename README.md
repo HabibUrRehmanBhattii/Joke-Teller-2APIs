@@ -1,7 +1,6 @@
 # Joke Teller 2 APIs
 
 ![Joke Teller 2 APIs](Joke%2BTeller%2BFlowchart.png)
-![image](https://user-images.githubusercontent.com/109253977/192200169-0f85f024-07d0-4249-bcab-bd942df41ddc.png)
 <hr>
 ## Description
 <hr>
@@ -39,3 +38,6 @@ No license is required for this project. Feel free to use it as you wish.
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="40" height="40"/>&nbsp;
 </div>
+<hr>
+
+![image](https://user-images.githubusercontent.com/109253977/192200169-0f85f024-07d0-4249-bcab-bd942df41ddc.png)
