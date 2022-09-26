@@ -1,6 +1,7 @@
 # Joke Teller 2 APIs
 
 ![Joke Teller 2 APIs](Joke%2BTeller%2BFlowchart.png)
+![image](https://user-images.githubusercontent.com/109253977/192200169-0f85f024-07d0-4249-bcab-bd942df41ddc.png)
 <hr>
 ## Description
 <hr>
@@ -12,7 +13,9 @@ The user can click the button to hear a joke. The joke is fetched from an API an
 
 ## Installation
 <hr>
-Clone the repo and open the index.html file in your browser. You can also visit the live site [here](https://habiburrehmanbhattii.github.io/Joke-Teller-2APIs/).
+Clone the repo and open the index.html file in your browser. You can also visit the live site 
+
+[here](https://habiburrehmanbhattii.github.io/Joke-Teller-2APIs/).
 
 ## API Reference
 <hr>
