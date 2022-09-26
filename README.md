@@ -2,21 +2,6 @@
 
 ![Joke Teller 2 APIs](Joke%2BTeller%2BFlowchart.png)
 <hr>
-
-![Description](## Description)
-
-![Installation](## Installation)
-
-![Usage](## Usage)
-
-![License](## License)
-
-![Contributing](## Contributing)
-
-[Tests](## Tests)
-
-[Questions](## Questions)
-
 ## Description
 <hr>
 The first API is a joke API that returns a random joke. The second API is a text-to-speech API that reads out the joke to the user. The joke API is called first, then the text-to-speech API is called with the joke text. The text-to-speech API returns a sound file which is played to the user.
